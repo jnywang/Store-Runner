@@ -1,0 +1,19 @@
+{
+    "expenditure": 143.9,
+    "revenue": 0,
+    "asset": 99855.1,
+    "items": [
+        {
+            "cost": 7.7,
+            "quantity": 7,
+            "price": 0,
+            "name": "cd"
+        },
+        {
+            "cost": 30,
+            "quantity": 3,
+            "price": 39.89,
+            "name": "book"
+        }
+    ]
+}
